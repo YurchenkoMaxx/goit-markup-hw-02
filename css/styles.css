@@ -1,7 +1,38 @@
 
 .body {
     font-family: 'Roboto','Helvetica Neue','Verdana','Tahoma', sans-serif;
-    color: color: #2e2f42;
+    color: #434455;
+    
+}
+.address{
+    font-style: normal;
+}
+.logo .web{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;}
+
+.logo .studio{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+            line-height: 1.16667;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            color: #2e2f42;
 }
 .link{
     font-weight: 500;
@@ -37,12 +68,7 @@
         color: #404bbf;
 }
 
-
-
-
-
-
-.page-hero{
+.page-hero-tittle{
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -96,13 +122,16 @@ border-radius: 4px;
 .chapterbox-4{
 
 }
-
+.ourteam{
+ 
+}
 .ourteam-tittle{font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 .ourteam-name{
     font-weight: 500;
