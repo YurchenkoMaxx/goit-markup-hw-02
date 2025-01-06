@@ -122,7 +122,7 @@ border-radius: 4px;
     color: #434455;
 }
 .ourteam{
-        background-color: #FFFFFF;
+        background-color: #F4F4FD;
 }
 .ourteam-tittle{font-weight: 700;
     font-size: 36px;
@@ -133,6 +133,9 @@ border-radius: 4px;
     text-transform: capitalize;
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
+.ourteam-about{
+    background-color: #FFFFFF;
+}
 .ourteam-name{
     font-weight: 500;
         font-size: 20px;
@@ -140,6 +143,7 @@ border-radius: 4px;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        
 }
 
 .ourteam-text{
