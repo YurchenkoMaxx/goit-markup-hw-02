@@ -1,6 +1,6 @@
 
 .body {
-    font-family: 'Roboto','Helvetica Neue','Verdana','Tahoma', sans-serif;
+    font-family: 'Roboto',sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -151,7 +151,9 @@ border-radius: 4px;
         color: #434455;
 }
 
-
+.portfolio{
+    background-color: #FFFFFF;
+}
 .portfolio-tittle{
     font-weight: 700;
         font-size: 36px;
