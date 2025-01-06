@@ -2,7 +2,7 @@
 .body {
     font-family: 'Roboto','Helvetica Neue','Verdana','Tahoma', sans-serif;
     color: #434455;
-    
+    background-color: #FFFFFF;
 }
 .address{
     font-style: normal;
@@ -67,8 +67,8 @@
         letter-spacing: 0.02em;
         color: #404bbf;
 }
-.page-her{
-    background: #2e2f42;
+.page-hero{
+    background-color: #2e2f42;
 }
 .page-hero-tittle{
     font-family: "Roboto", sans-serif;
@@ -78,15 +78,10 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    background: #2e2f42;
-    width: 1440px;
-    height: 600px;
 }
 .page-hero-button{
 border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
-    height: 56px;
     cursor: pointer;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4d5ae5;
@@ -96,14 +91,13 @@ border-radius: 4px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        text-align: center;
     }
 
 .page-hero-button:hover,
 .page-hero-button:focus {
         border-radius: 4px;
             padding: 16px 32px;
-            width: 169px;
-            height: 56px;
             box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
                 background: #404bbf;
                 font-weight: 500;
@@ -202,8 +196,6 @@ border-radius: 4px;
 
 
 .footer{
-    width: 1440px;
-        height: 312px;
         background: #2e2f42;
 }
 .footer-text{
@@ -212,6 +204,4 @@ border-radius: 4px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-        width: 264px;
-            height: 112px;
 }
