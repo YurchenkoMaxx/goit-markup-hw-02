@@ -54,7 +54,6 @@ ul, ol{
     background-color: #2e2f42;
 }
 .page-hero-tittle{
-    font-weight: 500;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -85,7 +84,6 @@ ul, ol{
 
 
 .chapter-tittle{
-    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -101,7 +99,6 @@ ul, ol{
         background-color: #F4F4FD;
 }
 .ourteam-tittle{
-    font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -109,10 +106,11 @@ ul, ol{
     color: #2e2f42;
     text-transform: capitalize;
 }
-.ourteam-about{
+.ourteam-item{
     background-color: #FFFFFF;
 }
 .ourteam-name{
+    font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
@@ -133,7 +131,6 @@ ul, ol{
     background-color: #FFFFFF;
 }
 .portfolio-tittle{
-    font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -144,6 +141,7 @@ ul, ol{
 }
 
 .portfolio-name{
+    font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
