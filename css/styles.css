@@ -48,13 +48,13 @@ ul, ol{
 .address-link:hover,
 .address-link:focus,
 .nav-link:hover,
-.nav-link:focus,{
-    color: #404bbf;
-}
+.nav-link:focus{color: #404bbf;}
+
 .page-hero{
     background-color: #2e2f42;
 }
 .page-hero-tittle{
+    font-weight: 500;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -85,10 +85,11 @@ ul, ol{
 
 
 .chapter-tittle{
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .chapter-text{
     font-size: 16px;
@@ -100,6 +101,7 @@ ul, ol{
         background-color: #F4F4FD;
 }
 .ourteam-tittle{
+    font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
