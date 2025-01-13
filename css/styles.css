@@ -50,9 +50,11 @@ ul, ol{
 .nav-link:hover,
 .nav-link:focus{color: #404bbf;}
 
+/* ------------------SECTION 1 PAGE HERO--------------- */
 .page-hero{
     background-color: #2e2f42;
 }
+
 .page-hero-tittle{
     font-size: 56px;
     line-height: 1.07;
@@ -60,6 +62,7 @@ ul, ol{
     text-align: center;
     color: #fff;
 }
+
 .page-hero-button{
     font-family: 'Roboto', sans-serif;
     cursor: pointer;
@@ -82,6 +85,21 @@ ul, ol{
                     color: #fff;
     }
 
+/* ------------------SECTION 2 CHAPTER--------------- */
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
 
 .chapter-tittle{
     font-weight: 500;
@@ -90,12 +108,16 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .chapter-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+/* ------------------SECTION 3 OURTEAM--------------- */
+
 .ourteam{
         background-color: #F4F4FD;
 }
@@ -128,9 +150,11 @@ ul, ol{
         color: #434455;
 }
 
+/* ------------------SECTION 4 PORTFOLIO--------------- */
 .portfolio{
     background-color: #FFFFFF;
 }
+
 .portfolio-tittle{
     font-size: 36px;
     line-height: 1.11;
@@ -148,6 +172,7 @@ ul, ol{
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+
 .porfolio-text{
         font-size: 16px;
         line-height: 1.5;
@@ -159,11 +184,11 @@ ul, ol{
 .footer{
         background: #2e2f42;
 }
+
 .footer-text{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
-
 
